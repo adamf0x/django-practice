@@ -23,7 +23,7 @@ erDiagram
 		string name  ""  
 		string description  ""  
 		float price  ""
-		tag tag ""
+		tag tag "" FK
 		category category FK ""
 	}
 
