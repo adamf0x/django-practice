@@ -22,8 +22,9 @@ erDiagram
 		bigint id PK ""  
 		string name  ""  
 		string description  ""  
-		float price  ""  
-		category category FK ""  
+		float price  ""
+		tag tag ""
+		category category FK ""
 	}
 
 	TAG {
