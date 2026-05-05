@@ -1,5 +1,5 @@
-# remarcable-demo
-Demo application created for Remarcable using Django
+# django-practice
+Demo application created using Django
 
 # Setup Instructions:
 1. Clone the repository
